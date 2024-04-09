@@ -4,5 +4,5 @@ By that with help of arduino Nano to develop the prototype.
 The code determine simply three main thing
  1. Trig pin of ultrasonic sensor
  2. Echo pin of ultrasonic sensor
- 3.Buzzer pin
+ 3. Buzzer pin
  4. Vibration motor pin
